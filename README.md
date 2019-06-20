@@ -3,7 +3,7 @@
 
 ## Project Overview:
 
-Restaurant Reviews** project, is a responsive and accessibile mobile-ready web application with caching features to view resutrants in the area and check their ratings and working hours. 
+**Restaurant Reviews** project, is a responsive and accessibile mobile-ready web application with caching features to view resutrants in the area and check their ratings and working hours. 
 
 
 ### Project Rubric
